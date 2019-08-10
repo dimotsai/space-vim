@@ -1,5 +1,5 @@
 sudo: required
-dist: trusty
+dist: bionic
 
 before_install: ci/before_install.sh
 script: ci/script.sh
